@@ -12,3 +12,5 @@ git add
 git status
 git -A
 git .
+git commit -m "text"
+git push origin master
